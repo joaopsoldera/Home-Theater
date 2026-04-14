@@ -36,8 +36,4 @@ public class HomeTheater {
 
     public LuzAmbiente getLuzAmbiente() { return luzAmbiente; }
     public void setLuzAmbiente(LuzAmbiente luzAmbiente) { this.luzAmbiente = luzAmbiente; }
-
-    public assistirFilme() {
-        
-    }
 }
